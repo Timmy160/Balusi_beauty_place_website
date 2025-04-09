@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from "../assets/Images/Bbp_Logo.jpg";
+import Logo from "../assets/Images/Logo.jpg";
 import Hr1 from "../assets/Images/Hr1.jpg";
 import Hr2 from "../assets/Images/Hr2.jpg";
 import Hr3 from "../assets/Images/Hr3.jpg";

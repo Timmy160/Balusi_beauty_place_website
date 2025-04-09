@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Logo from "../assets/Images/Bbp_logo.jpg";
+import Logo from "../assets/Images/Logo.jpg";
 import { Menu, X , Instagram } from 'lucide-react';  
 
 function Navbar() {
